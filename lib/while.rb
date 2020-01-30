@@ -3,6 +3,7 @@ def using_while
 	
 loop do 
   puts "Wingardium Leviosa"
+  while
 end
 
 
